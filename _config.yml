@@ -21,14 +21,14 @@ repository               : "PatrickHorlaville/PatrickHorlaville.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_6590.jpg"
   name             : "Patrick Horlaville"
   pronouns         : # example: "she/her"  
   bio              : "Astronomy researcher, student and communicator"
   location         : "Canada"
   employer         : "Bishop's University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "patrick.horlaville@gmail.com" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Horlaville,+P"# URL - Update with the correct link to your profile
