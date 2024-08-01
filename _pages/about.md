@@ -10,7 +10,7 @@ redirect_from:
 
 I am Patrick, presently a Master's student in Physics at Bishop's University in the Multi-Messenger Astrophysics Research group under the supervision of [Dr. John Ruan](https://gamma-research.space/). I am a junior astronomy researcher broadly interested in cosmology and supermassive black holes, notably in the unique relationship they share with their host galaxies and the mechanisms that can bring them to merge with each other. 
 
-I am actively looking for a PhD position in astrophysics starting Fall 2025! Please contact me by email if you are looking for PhD students and you would like to know more about me.
+I am actively looking for an astronomy PhD position starting Fall 2025! If my profile sparks your interest and you would like to know more about me, drop me an email!
 
 
 Research Activities
