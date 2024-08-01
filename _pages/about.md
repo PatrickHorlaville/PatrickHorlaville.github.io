@@ -15,7 +15,7 @@ I am actively looking for a PhD position in astrophysics starting Fall 2025! Ple
 
 Research Activities
 ======
-For my Master's thesis, I am developing a project whose objective is to develop a novel method to identify candidate host galaxies of closely separated (less than 100 parsec or so) dual AGNs. If this proves promising, it would be exciting to go further and a use high-resolution space telescopes to actually detect those dual AGNs! This would be quite the hoot, as we have yet to detect dual AGNs this close to each other, despite how important they are in our understanding of how, if ever, do supermassive black holes merge with each other! 
+For my Master's thesis, I am developing a project whose objective is to develop a novel method to identify candidate host galaxies of closely separated (less than 100 parsec or so) dual AGNs. If this proves promising, it would be exciting to go further and use a high-resolution space telescope to directly detect those dual AGNs! This would be quite the hoot, as we have yet to detect dual AGNs this close to each other, despite how important they are in our understanding of how (if ever!) do supermassive black holes merge with each other! 
 
 Other research projects...
 
@@ -23,4 +23,4 @@ Refer to other dedicated Research page for more details pictures etc...
 
 Other Interests
 ======
-Education, outreach, sports, music, outdoors, travel...
+Education, outreach, sports, music, writing, drawing, outdoors, travel...
