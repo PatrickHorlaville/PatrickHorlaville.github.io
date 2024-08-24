@@ -8,7 +8,7 @@ main:
     url: /files/academic_cv.pdf
     
   - title: "Research"
-    url: /cv/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
