@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research Activities"
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Master's Thesis Project @ Bishop's University
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* For my Master's thesis project, I am developing a novel method to identify supermassive black hole binary (SMBHB) host candidate galaxies from archival spectroscopic surveys
+* In essence, I am using novel insights drawn from cosmological simulations that suggest that galaxies harbouring supermassive black hole binary systems have unique stellar kinematic features
+* The approach of my project is to look through galaxy surveys for which kinematic information is available (which are called Integral Field Unit or IFU surveys), and to search among the available galaxies the unique stellar kinematic features that are suggestive of the presence of a SMBHB system
+* In addition to those stellar kinematic features, I also use galaxy surface brightness profile information to aid in selecting the SMBHB host candidate galaxies
+* Supervisor: John J. Ruan
 
-Work experience
+Summer Undergraduate Research Fellowship (SURF) @ Canadian Institute for Theoretical Astrophysics (CITA)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* For my research internship at the Canadian Institute for Theoretical Astrophysics (CITA) during the Summer of 2022,
+* Supervisors: Dongwoo Chung, Dick Bond
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
