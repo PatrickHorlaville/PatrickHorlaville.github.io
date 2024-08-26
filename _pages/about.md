@@ -19,7 +19,7 @@ For my Master's thesis, I am developing a project whose objective is to develop 
 
 Prior to my Master's degree, I completed my undergraduate studies in honours physics (BSc.) at McGill University, where I wrote my honours thesis in the cosmology group of [Prof. Matt Dobbs](https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/matt-dobbs). While a student at McGill, I participated to various research projects, including at the [Canadian Institute for Theoretical Astrophysics](https://www.cita.utoronto.ca/) in Toronto as a [Summer Undegraduate Research Fellow](https://www.cita.utoronto.ca/opportunities/surf-at-cita/) under the supervision of [Dr. Dongwoo Chung](https://dongwooc.com/) and [Prof. Dick Bond](https://www.cita.utoronto.ca/~bond/).
 
-For more details on my research activities and interests, I refer you to my [Research page](https://patrickhorlaville.github.io/research/) and my [CV](https://patrickhorlaville.github.io/files/academic_cv.pdf)!
+For more details on my research activities and interests, I refer you to my [CV](https://patrickhorlaville.github.io/files/academic_cv.pdf) and my [Research page](https://patrickhorlaville.github.io/research/)!
 
 
 
