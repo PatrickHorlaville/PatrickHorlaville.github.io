@@ -6,11 +6,6 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Horlaville%2C%20Patrick%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> ADS</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
