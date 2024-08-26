@@ -19,7 +19,9 @@ Master's Thesis Project @ Bishop's University
 
 Summer Undergraduate Research Fellowship (SURF) @ Canadian Institute for Theoretical Astrophysics (CITA)
 ======
-* For my research internship at the Canadian Institute for Theoretical Astrophysics (CITA) during the Summer of 2022,
+* For my research internship at the Canadian Institute for Theoretical Astrophysics (CITA) during the Summer of 2022, I revitalized a line intensity mapping program and implemented a novel model for the parametrization of the cosmological [C II] signal. This work allowed me to publish a [first-author paper](href:https://academic.oup.com/mnras/article/531/3/2958/7687167)
 * Supervisors: Dongwoo Chung, Dick Bond
+
+  More to come...
 
  
