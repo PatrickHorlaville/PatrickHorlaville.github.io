@@ -25,4 +25,4 @@ For more details on my research activities and interests, I refer you to my [CV]
 
 Other Interests
 ======
-I nurture multiple interests outside of academia and research. If you're interested, I encourage you to have a look at my [Other Interests](https://patrickhorlaville.github.io/markdown/) page!
+I nurture multiple interests outside of academia and research. If you're interested, I encourage you to have a look at my [Other Interests](https://patrickhorlaville.github.io/other_interests/) page!
