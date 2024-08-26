@@ -26,3 +26,7 @@ For more details on my research activities and interests, I refer you to my [CV]
 Other Interests
 ======
 I nurture multiple interests outside of academia and research. If you're interested, I encourage you to have a look at my [Other Interests](https://patrickhorlaville.github.io/other_interests/) page!
+
+Biographical Information
+======
+Originally hailing from a tiny village in a forest located in Picardie, France, I have now lived the last 12 years of my life in the province of Quebec, Canada, where I completed my high school and undergraduate studies in Physics. 
