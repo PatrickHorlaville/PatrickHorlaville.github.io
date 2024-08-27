@@ -17,7 +17,7 @@ Master's Thesis Project @ Bishop's University
 * In addition to those stellar kinematic features, I also use galaxy surface brightness profile information to aid in selecting the SMBHB host candidate galaxies
 * Supervisor: John J. Ruan
 
-Summer Undergraduate Research Fellowship (SURF) @ Canadian Institute for Theoretical Astrophysics (CITA)
+Summer Undergraduate Research Fellow @ Canadian Institute for Theoretical Astrophysics
 ======
 * For my research internship at the Canadian Institute for Theoretical Astrophysics (CITA) during the Summer of 2022, I revitalized a line intensity mapping program and implemented a novel model for the parametrization of the cosmological [C II] signal. This work notably allowed me to publish a [first-author paper](https://academic.oup.com/mnras/article/531/3/2958/7687167)
 * Supervisors: Dongwoo Chung, Dick Bond
