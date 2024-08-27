@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Astronomy student, researcher and communicator"
   location         : "Sherbrooke, Canada"
-  employer         : "[Bishop's University](https://www.ubishops.ca/)"
-  uri              : # URL
+  employer         : "Bishop's University"
+  uri              : "https://www.ubishops.ca/"
   email            : "patrick.horlaville@gmail.com" 
 
   # Academic websites
