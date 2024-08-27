@@ -27,7 +27,7 @@ author:
   bio              : "Astronomy student, researcher and communicator"
   location         : "Sherbrooke, Canada"
   employer         : "Bishop's University"
-  uri              : "https://www.ubishops.ca/"
+  uri              : # URL
   email            : "patrick.horlaville@gmail.com" 
 
   # Academic websites
