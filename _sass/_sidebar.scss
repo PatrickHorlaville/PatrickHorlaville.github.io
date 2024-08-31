@@ -15,9 +15,6 @@
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
-    overflow-y: fixed;               // Add scrollbar if the sidebar is too long
-    position: fixed;
-    padding-top: $masthead-height;
   }
 
   @include breakpoint($large) {
