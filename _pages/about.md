@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(currently under construction, come back soon!) 
 
-I am Patrick, presently a Master's student in Physics at Bishop's University in the Multi-Messenger Astrophysics Research group under the supervision of [Prof. John Ruan](https://gamma-research.space/). I am a junior astronomy researcher broadly interested in cosmology and supermassive black holes, notably in the unique relationship they share with their host galaxies and the mechanisms that can bring them to merge with each other. 
+I'm Patrick Horlaville, presently a Master's student in Physics at Bishop's University in the Multi-Messenger Astrophysics Research group under the supervision of [Prof. John Ruan](https://gamma-research.space/). I am a junior astronomy researcher broadly interested in cosmology and supermassive black holes, notably in the unique relationship they share with their host galaxies and the mechanisms that can bring them to merge with each other. 
 
 I am actively looking for an astronomy PhD position starting Fall 2025! If my profile sparks your interest and you would like to know more about me, [drop me an email](mailto:patrick.horlaville@gmail.com)!
 
