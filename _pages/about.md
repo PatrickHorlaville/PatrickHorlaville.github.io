@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Patrick Horlaville, presently a PhD student in Physics at [McGill University](https://www.mcgill.ca/) in the Cosmic Dawn and Hydrogen Cosmology group of [Prof. Adrian Liu](https://www.physics.mcgill.ca/~acliu/). I have a diverse research background, ranging from developing statistics for theoretical line-intensity mapping to searching for the host galaxies of supermassive black hole binaries. I previously completed my Master's degree at [Bishop's University](https://www.ubishops.ca/) in the Multi-Messenger Astrophysics Research group of [Prof. John Ruan](https://gamma-research.space/), and my undergraduate degree at McGill in the cosmology group of [Prof. Matt Dobbs](https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/matt-dobbs). For more details on my academic journey, I refer you to my [CV](https://patrickhorlaville.github.io/files/academic_cv.pdf). For more explanation on the research projects I have participated to, I refer you to my [Research page](https://patrickhorlaville.github.io/research/). For more information on what I do outside of research, have a look at my [Other Interests](https://patrickhorlaville.github.io/other_interests/) page!
+I'm Patrick Horlaville, presently a PhD student in Physics at [McGill University](https://www.mcgill.ca/) in the Cosmic Dawn and Hydrogen Cosmology group of [Prof. Adrian Liu](https://www.physics.mcgill.ca/~acliu/). I have a diverse research background, ranging from developing statistics for theoretical line-intensity mapping to searching for the host galaxies of supermassive black hole binaries. I previously completed my Master's degree at [Bishop's University](https://www.ubishops.ca/) in the Multi-Messenger Astrophysics Research group of [Prof. John Ruan](https://gamma-research.space/), and my undergraduate degree at McGill in the cosmology group of [Prof. Matt Dobbs](https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/matt-dobbs). 
+
+For more details on my academic journey, I refer you to my [CV](https://patrickhorlaville.github.io/files/academic_cv.pdf). 
+
+For more explanation on the research projects I have participated to, I refer you to my [Research page](https://patrickhorlaville.github.io/research/). 
+
+For more information on what I do outside of research, have a look at my [Other Interests](https://patrickhorlaville.github.io/other_interests/) page!
 
 
 Biographical Information
