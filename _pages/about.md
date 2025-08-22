@@ -13,7 +13,7 @@ For more details on my academic journey, I refer you to my [CV](https://patrickh
 
 For more explanation on the research projects I have participated to, I refer you to my [Research page](https://patrickhorlaville.github.io/research/). 
 
-For more information on what I do outside of research, have a look at my [Other Interests](https://patrickhorlaville.github.io/other_interests/) page!
+For more information on what I do outside of research, have a look at my [Other Interests page](https://patrickhorlaville.github.io/other_interests/)!
 
 
 Biographical Information
