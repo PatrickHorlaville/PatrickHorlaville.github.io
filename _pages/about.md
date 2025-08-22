@@ -11,7 +11,7 @@ I'm Patrick Horlaville, presently a PhD student in Physics at [McGill University
 
 For more details on my academic journey, I refer you to my [CV](https://patrickhorlaville.github.io/files/academic_cv.pdf). 
 
-For more explanation on my current and past research projects, I refer you to my [Research page](https://patrickhorlaville.github.io/research/). 
+For an overview of my past and current research projects, I refer you to my [Research page](https://patrickhorlaville.github.io/research/). 
 
 For more information on what I do outside of research, have a look at my [Other Interests page](https://patrickhorlaville.github.io/other_interests/)!
 
