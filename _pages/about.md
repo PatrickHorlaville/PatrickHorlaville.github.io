@@ -11,7 +11,7 @@ I'm Patrick Horlaville, an [NSERC doctoral scholar](https://www.nserc-crsng.gc.c
 
 I have a diverse research background, ranging from developing statistics for theoretical line-intensity mapping to searching for the host galaxies of supermassive black hole binaries. I previously completed my Master's degree at [Bishop's University](https://www.ubishops.ca/) in the Multi-Messenger Astrophysics Research group of [Prof. John Ruan](https://gamma-research.space/), and my undergraduate degree at McGill in the radio lab of [Prof. Matt Dobbs](https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/matt-dobbs). 
 
-For more details on my academic journey, I refer you to my [CV](https://patrickhorlaville.github.io/files/academic_cv_2025.pdf). 
+For more details on my academic journey, I refer you to my [CV](https://patrickhorlaville.github.io/files/academic_cv_2026.pdf). 
 
 For an overview of my past and current research projects, I refer you to my [Research page](https://patrickhorlaville.github.io/research/). 
 
