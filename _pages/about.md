@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Patrick Horlaville, an [NSERC doctoral scholar](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/cgrsd-besrd_eng.asp) and PhD student in Physics at the [Trottier Space Institute (TSI)](https://tsi.mcgill.ca/) at [McGill University](https://www.mcgill.ca/) in the Cosmic Dawn and Hydrogen Cosmology group of [Prof. Adrian Liu](https://www.physics.mcgill.ca/~acliu/). I am also the [outreach coordinator](https://physics-tsi-outreach.physics.mcgill.ca/) at TSI for the [Space Explorers program](https://physicsmatters.physics.mcgill.ca/school-programs/).
+I'm Patrick Horlaville, a PhD student and [NSERC doctoral scholar](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/cgrsd-besrd_eng.asp) at the [Trottier Space Institute (TSI)](https://tsi.mcgill.ca/) at [McGill University](https://www.mcgill.ca/) in the Cosmic Dawn and Hydrogen Cosmology group of [Prof. Adrian Liu](https://sites.google.com/view/acliu/home?pli=1&authuser=0). I am also the [outreach coordinator](https://physics-tsi-outreach.physics.mcgill.ca/) at TSI for the [Space Explorers program](https://physicsmatters.physics.mcgill.ca/school-programs/).
 
 I have a diverse research background, ranging from developing statistics for theoretical line-intensity mapping to searching for the host galaxies of supermassive black hole binaries. I previously completed my Master's degree at [Bishop's University](https://www.ubishops.ca/) in the Multi-Messenger Astrophysics Research group of [Prof. John Ruan](https://gamma-research.space/), and my undergraduate degree at McGill in the radio lab of [Prof. Matt Dobbs](https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/matt-dobbs). 
 
